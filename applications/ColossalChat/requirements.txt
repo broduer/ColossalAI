@@ -1,4 +1,4 @@
-transformers==4.39.3
+transformers==4.44.2
 tqdm
 datasets==2.14.7
 loralib
@@ -13,7 +13,7 @@ sentencepiece
 gpustat
 packaging
 autoflake==2.2.1
-black==23.9.1
+black==24.3.0
 tensorboard
 six==1.16.0
 datasets
